@@ -1,4 +1,3 @@
-````markdown
 # NFT Art Generator
 
 Welcome to the NFT Art Generator! This tool is designed to create unique digital artworks by combining various layers such as backgrounds, hairstyles, eyes, noses, mouths, and beards. The generator outputs images and corresponding metadata as part of an NFT collection.
@@ -19,7 +18,6 @@ git clone [your-repo-link]
 cd [your-repo-directory]
 npm install sharp
 ```
-````
 
 ## Usage
 
