@@ -57,8 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - Everyone who has contributed to the development of the `sharp` library
 
 Enjoy creating your own unique NFTs!
-
-```
-
-This markdown covers all the necessary sections for a GitHub project README, including installation, usage, features, customization, contributing, license, and acknowledgments. Adjust the `[your-repo-link]` and `[your-repo-directory]` placeholders to fit your actual repository details.
-```
